@@ -44,11 +44,7 @@ Let's connect, collaborate, or just nerd out about loss functions.
 
 ---
 
-<p align="center">
-  <a href="https://github.com/isha822">
-    <img src="https://github-readme-stats.vercel.app/api?username=isha822&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sanjana's GitHub Stats" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/isha822">
