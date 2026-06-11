@@ -1,54 +1,130 @@
-<div align="left">
-  <h2>👋 Hey, I'm Sanjana (an Undergrad ML Researcher)</h2>
-  <p>Curious about the mechanics of intelligence | Bridging the gap between theory and robust open-source infrastructure.</p>
-</div>
+# Hey, I'm Sanjana 👋🏽
 
-I specialize in Deep Learning, Graph Neural Networks (GNNs), and Mechanistic Interpretability, building systems that scale from fundamental physics research to conversational AI.
+> CS undergrad · ML & open source
 
-### 🔗 Currently Engineering
+Curious about how models actually work. I contribute to open-source ML libraries, build projects to test ideas, and read a lot of things I don't fully understand yet.
 
-* **Mechanistic Interpretability:** Diagnosing structural hierarchy in transformer models. Using Sparse Autoencoders (SAEs) to isolate depth-tracking features and verify causality within neural activations via forward-pass hooks.
-* **High-Energy Physics via GNNs:** Developing progressive non-local Graph Neural Network pipelines for particle jet classification, pushing performance boundaries while optimizing for memory efficiency with O(N) scatter ops.
-* **Agentic Long-Term Memory:** Architecting multi-tier, asynchronous retrieval systems to bound context window growth and slash latency across thousand-turn LLM conversations.
-* **Adversarial Audits & Fairness:** Quantifying demographic disparities in predictive health metrics and auditing complex-valued neural beamformers against adversarial (FGSM) attacks to expose phase-blind vulnerabilities.
-
-### 🛠️ The Stack
-
-* **Languages:** Python (Advanced), C++ (Basics), Go (Basics).
-* **Deep Learning & ML:** PyTorch, TensorFlow, Scikit-learn, XGBoost, GNNs, LLMs & RAG, Time Series.
-* **Libraries & Ecosystem:** Pandas, NumPy, Matplotlib, NetworkX, TransformerLens, SAELens.
-* **Infrastructure & Dev Tools:** FastAPI, Qdrant (Vector DB), Git/GitHub, Jupyter, Groq LPU, REST APIs.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</p>
-
-### 🏆 Proof of Work
-
-* **Scientific Ecosystem Contributor:** Actively engineering features for global open-source libraries used in neuroinformatics, ecology, and astronomy.
-* **Algorithmic Implementation:** Built mathematical functions for spatial plotting, complex kinematics (turning angles, path sinuosity), and absolute feature selection estimators.
-* **System Reliability:** Resolved critical missing-data semantics, patched downstream failures via early input validation, and stabilized CLI error handling in large-scale codebases.
-* **Competitive ML:** Top-tier finalist in a global hackathon for long-term conversational memory, achieving massive speedups over sequential retrieval systems.
-
-### ⚙️ Systems & Philosophy
-
-**Deep Learning Enthusiast | Open-Source Advocate | Minimalist Programmer**<br>
-I build for interpretability, mathematical rigor, and real-world impact. Always exploring the latent space, squashing bugs, and reimagining what's possible with a GPU. 
-
-Let's connect, collaborate, or just nerd out about loss functions. 
+Most of my learning happens outside class.
 
 ---
 
+### 🔧 Currently Working On
+
+- Contributing to open-source scientific Python libraries — in active maintainer review
+- Refactoring internals of an LLM tooling library
+- Writing up a mechanistic interpretability project as a preprint
+
+---
+
+### 🧠 Interests
+
+Things I keep coming back to: **mechanistic interpretability**, **ML security**, **graph neural networks**, **scientific computing**. Less "using models", more "understanding what's happening inside them."
+
+---
+
+### 🛠️ Stack
+
+**Languages:** Python · C++ (basics) · Go (basics)
+
+**ML:** PyTorch · Scikit-learn · TransformerLens · SAELens · XGBoost
+
+**Ecosystem:** NumPy · Pandas · FastAPI · Qdrant · Git · Jupyter
+
+---
+
+### 🏅 A few things I've shipped
+
+- Open-source contributions across scientific Python ecosystems — features and bug fixes, real review cycles
+- Mechanistic interpretability experiments on a transformer model — feature isolation, causality verification
+- Adversarial ML research — quantifying attack surfaces in neural network architectures
+- Placed in top teams at a multi-team AI hackathon
+- Picked up enough Go to ship a fix in a production CLI
+
+---
+
+### 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isha822&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="95%"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isha822&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6"/>
+</div>
+
+---
+
+### 🧰 Tools & Skills
 
 
-<p align="center">
-  <a href="https://github.com/isha822">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=isha822&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=7aa2f7&line=7aa2f7&point=ffffff" alt="Sanjana's Contribution Graph" />
-  </a>
-</p>
 
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+
+
+
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+
+
+
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+
+
+
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+
+
+
+
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+
+
+
+
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+
+
+
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+
+
+
+
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+
+
+
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8)
+
+
+
+
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+
+
+
+
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+
+
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+
+
+---
+
+### 📬 Connect
+
+<div align="center">
+  <a href="mailto:sanjana.s0528@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://www.linkedin.com/in/sanjana-soni-a829222ba"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://github.com/isha822"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+</div>
